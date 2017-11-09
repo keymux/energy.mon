@@ -1,0 +1,15 @@
+module.exports = {
+	ct: [
+		1,
+		2,
+		3,
+		4,
+	],
+	db: {
+		username: "energymon",
+		password: "password",
+		database: "energymon",
+		host: "localhost",
+		port: "3306",
+	},
+};
