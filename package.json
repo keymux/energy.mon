@@ -1,0 +1,11 @@
+{
+  "name": "energy.mon",
+  "version": "1.0.0",
+  "description": "An energy monitoring API that reads in power usage data over serial and inserts that data as records into a mysql database",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Henry Brown",
+  "license": "ISC"
+}
